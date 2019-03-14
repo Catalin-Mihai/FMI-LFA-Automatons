@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1552592086 source:e:\proiecte\tema 1 - lfa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<FA.h>
+	<DFA.h>
+	<NFA.h>
+	<LNFA.h>
+
+1552587043 e:\proiecte\tema 1 - lfa\include\fa.h
+	<string>
+	<istream>
+	<iostream>
+	<vector>
+
+1552588659 source:e:\proiecte\tema 1 - lfa\src\fa.cpp
+	"FA.h"
+
+1552592049 source:e:\proiecte\tema 1 - lfa\src\dfa.cpp
+	"DFA.h"
+
+1552329930 e:\proiecte\tema 1 - lfa\include\dfa.h
+	"FA.h"
+
+1552591296 source:e:\proiecte\tema 1 - lfa\src\nfa.cpp
+	"NFA.h"
+
+1552588920 e:\proiecte\tema 1 - lfa\include\nfa.h
+	"FA.h"
+
+1552591237 source:e:\proiecte\tema 1 - lfa\src\lnfa.cpp
+	"LNFA.h"
+
+1552592144 e:\proiecte\tema 1 - lfa\include\lnfa.h
+	"NFA.h"
+
