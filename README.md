@@ -1,6 +1,6 @@
 # FMI-LFA-T1-Automate
 
-Implementarea Automatelor: 
-- Finit Determinist (AFD/DFA)
-- Finit Nedeterminist (AFN/NFA)
-- Finit Nedeterminist cu Lambda tranzitii (ΛAFN/ΛNFA)
+Automatons implementation: 
+- Finite deterministic (DFA)
+- Finite Nondeterministic (NFA)
+- Finite Nondeterministic with lambda transitions (LNFA/ΛNFA)
